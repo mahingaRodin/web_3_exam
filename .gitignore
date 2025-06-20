@@ -1,1 +1,18 @@
 be/node_modules/
+be/.env
+node_modules
+
+# Hardhat files
+be/cache
+be/artifacts
+
+# TypeChain files
+be/typechain
+be/typechain-types
+
+# solidity-coverage files
+be/coverage
+be/coverage.json
+
+# Hardhat Ignition default folder for deployments against a local node
+be/ignition/deployments/chain-31337
