@@ -1,0 +1,23 @@
+{
+  "name": "web3_dapp",
+  "version": "1.0.0",
+  "description": "This is the readme.md of the system built during the exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahingaRodin/web_3_exam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahingaRodin/web_3_exam/issues"
+  },
+  "homepage": "https://github.com/mahingaRodin/web_3_exam#readme",
+  "devDependencies": {
+    "hardhat": "^2.24.3"
+  }
+}
